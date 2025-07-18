@@ -9,8 +9,6 @@
 <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3" /> 
 <img src="https://img.shields.io/badge/-JavaScript-oringe?style=flat-square&logo=javascript" />
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=HtLimite&left_color=green&right_color=red)
-
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=HtLimite&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ![IceEnd's GitHub stats](https://github-immortality.vercel.app/api?username=HtLimite)
