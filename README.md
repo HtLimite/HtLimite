@@ -34,8 +34,9 @@
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=HtLimite&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HtLimite&layout=compact&theme=radical" />
+  <img width="48%" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HtLimite&layout=compact&theme=radical" />
 </p>
+
 
 ---
 
@@ -51,10 +52,10 @@
 
 <p align="left">
   <a href="https://github.com/HtLimite/library">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HtLimite&repo=your-awesome-project&theme=radical" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HtLimite&repo=library&theme=radical" />
   </a>
   <a href="https://github.com/HtLimite/Vue">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HtLimite&repo=another-project&theme=radical" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HtLimite&repo=Vue&theme=radical" />
   </a>
 </p>
 
