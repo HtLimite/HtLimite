@@ -60,10 +60,10 @@
 
 <p align="left">
   <a href="https://github.com/HtLimite/library">
-    <img align="center" height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=HtLimite&repo=library&theme=radical" />
+    <img align="top" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=HtLimite&repo=library&theme=radical" />
   </a>
   <a href="https://github.com/HtLimite/Vue">
-    <img align="center" height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=HtLimite&repo=Vue&theme=radical" />
+    <img align="top" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=HtLimite&repo=Vue&theme=radical" />
   </a>
 </p>
 
