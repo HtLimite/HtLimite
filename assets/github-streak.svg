@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="180" viewBox="0 0 760 180">
+  <rect x="1" y="1" width="758" height="178" rx="16" fill="#141321" stroke="#30363d"/>
+  <text x="30" y="42" fill="#f8fafc" font-family="Arial" font-size="22" font-weight="700">GitHub Streak</text>
+  <text x="30" y="66" fill="#8b949e" font-family="Arial" font-size="13">Local SVG card · stable fallback</text>
+  <g transform="translate(34 94)">
+    <rect x="0" y="0" width="96" height="58" rx="12" fill="#1f2937" stroke="#374151"/>
+    <text x="16" y="24" fill="#c9d1d9" font-family="Arial" font-size="13">Learning</text>
+    <text x="16" y="48" fill="#ff6ec7" font-family="Arial" font-size="24" font-weight="700">Daily</text>
+    <rect x="116" y="0" width="116" height="58" rx="12" fill="#1f2937" stroke="#374151"/>
+    <text x="132" y="24" fill="#c9d1d9" font-family="Arial" font-size="13">Shipping</text>
+    <text x="132" y="48" fill="#7c3aed" font-family="Arial" font-size="24" font-weight="700">Steady</text>
+    <rect x="252" y="0" width="136" height="58" rx="12" fill="#1f2937" stroke="#374151"/>
+    <text x="268" y="24" fill="#c9d1d9" font-family="Arial" font-size="13">Improving</text>
+    <text x="268" y="48" fill="#22c55e" font-family="Arial" font-size="24" font-weight="700">Always</text>
+  </g>
+  <path d="M470 122 C510 78 550 160 590 112 S670 84 720 118" fill="none" stroke="#ff6ec7" stroke-width="8" stroke-linecap="round"/>
+  <circle cx="720" cy="118" r="10" fill="#22c55e"/>
+</svg>
