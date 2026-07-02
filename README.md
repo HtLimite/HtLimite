@@ -1,7 +1,7 @@
 <!-- Profile README for HtLimite -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=220&section=header&text=Hi%20there%20%F0%9F%91%8B%20I'm%20HtLimite&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Frontend%20Developer%20%C2%B7%20B-end%20Systems%20%C2%B7%20AI-assisted%20Development&descAlignY=55&descSize=18" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=240&section=header&text=Hi%20there%20%F0%9F%91%8B%20I'm%20HtLimite&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=34&desc=Frontend%20Developer%20%C2%B7%20B-end%20Systems%20%C2%B7%20Multi-platform%20Apps%20%C2%B7%20AI-assisted%20Development&descAlignY=56&descSize=17" alt="header" />
 </p>
 
 <h1 align="center">Hi 👋, I'm HtLimite</h1>
@@ -28,10 +28,11 @@
   <img src="https://img.shields.io/github/stars/HtLimite/HtLimite?label=Profile%20Repo%20Stars&style=flat-square&logo=github" alt="GitHub Stars" />
   <img src="https://img.shields.io/badge/Focus-Frontend%20Engineering-42B883?style=flat-square" alt="Frontend Engineering" />
   <img src="https://img.shields.io/badge/AI-assisted%20Development-7C3AED?style=flat-square" alt="AI-assisted Development" />
+  <img src="https://img.shields.io/badge/Keep-Shipping-FF6B6B?style=flat-square" alt="Keep Shipping" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=900&lines=Build+clean%2C+reliable+and+practical+frontend+products;React+%2F+Vue+%2F+TypeScript+%2F+Uni-app+%2F+Mini+Program;B-end+systems+%7C+Engineering+%7C+AI-assisted+development;Keep+learning%2C+keep+shipping%2C+keep+improving" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=1000&lines=Build+clean%2C+reliable+and+practical+frontend+products;React+%2F+Vue+%2F+TypeScript+%2F+Uni-app+%2F+Mini+Program;B-end+systems+%7C+Engineering+%7C+AI-assisted+development;Keep+learning%2C+keep+shipping%2C+keep+improving" alt="Typing SVG" />
 </p>
 
 ---
@@ -47,6 +48,31 @@
 - 💬 可以交流：React、Vue、TypeScript、Umi、HZero、Choerodon UI、Uni-app、Spring Boot、Docker。
 - 🌐 Blog：<a href="https://wyy.hair">wyy.hair</a>
 - 📫 Email：<a href="mailto:quanqiuyouxiang@126.com">quanqiuyouxiang@126.com</a>
+
+---
+
+## 🧭 Profile Highlights
+
+<table>
+  <tr>
+    <td align="center" width="25%">
+      <b>Frontend</b><br />
+      React · Vue · TypeScript
+    </td>
+    <td align="center" width="25%">
+      <b>B-end Systems</b><br />
+      Admin · Forms · Tables
+    </td>
+    <td align="center" width="25%">
+      <b>Full-stack</b><br />
+      Spring Boot · Node.js · MySQL
+    </td>
+    <td align="center" width="25%">
+      <b>AI Workflow</b><br />
+      Agent · CLI · Automation
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -147,6 +173,33 @@
 
 ## 🚀 Featured Repositories
 
+<table>
+  <tr>
+    <td width="50%">
+      <a href="https://github.com/HtLimite/housekeep-admin-vue">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=HtLimite&repo=housekeep-admin-vue&theme=radical&hide_border=true" alt="housekeep-admin-vue" />
+      </a>
+    </td>
+    <td width="50%">
+      <a href="https://github.com/HtLimite/housekeep-api">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=HtLimite&repo=housekeep-api&theme=radical&hide_border=true" alt="housekeep-api" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <a href="https://github.com/HtLimite/credit">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=HtLimite&repo=credit&theme=radical&hide_border=true" alt="credit" />
+      </a>
+    </td>
+    <td width="50%">
+      <a href="https://github.com/HtLimite/ai-gemini-report">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=HtLimite&repo=ai-gemini-report&theme=radical&hide_border=true" alt="ai-gemini-report" />
+      </a>
+    </td>
+  </tr>
+</table>
+
 | Repository | Description | Keywords |
 | --- | --- | --- |
 | [housekeep-admin-vue](https://github.com/HtLimite/housekeep-admin-vue) | 家政 / 业务管理后台前端项目入口 | Vue, Admin, B-end |
@@ -191,6 +244,24 @@ HtLimite
 
 ---
 
+## 📈 GitHub Summary Cards
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HtLimite&theme=radical" alt="Profile Details" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HtLimite&theme=radical" alt="Repos Per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=HtLimite&theme=radical" alt="Most Commit Language" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=HtLimite&theme=radical" alt="Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=HtLimite&theme=radical&utcOffset=8" alt="Productive Time" />
+</p>
+
+---
+
 ## 🏆 GitHub Trophy
 
 <p align="center">
@@ -207,6 +278,16 @@ HtLimite
 
 ---
 
+## 🧊 3D Contribution Profile
+
+<p align="center">
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Profile" />
+</p>
+
+> 3D 图由 `.github/workflows/profile-3d.yml` 自动生成。新增后需要手动运行一次 workflow，或等待每日定时任务生成。
+
+---
+
 ## 🐍 Contribution Snake
 
 <p align="center">
@@ -218,6 +299,14 @@ HtLimite
 </p>
 
 > Snake 由 `.github/workflows/snake.yml` 自动生成到 `output` 分支。如果暂时不显示，可以手动运行一次 workflow。
+
+---
+
+## 💡 Dev Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote" />
+</p>
 
 ---
 
