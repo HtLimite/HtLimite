@@ -1,19 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="900" height="150" viewBox="0 0 900 150">
   <rect x="1" y="1" width="898" height="148" rx="16" fill="#141321" stroke="#30363d"/>
   <text x="30" y="42" fill="#f8fafc" font-family="Arial" font-size="22" font-weight="700">GitHub Trophy</text>
-  <text x="30" y="66" fill="#8b949e" font-family="Arial" font-size="13">Stable local achievement board</text>
-  <g transform="translate(30 88)">
-    <rect x="0" y="0" width="118" height="42" rx="12" fill="#1f2937" stroke="#ff6ec7"/>
-    <text x="20" y="27" fill="#ff6ec7" font-family="Arial" font-size="15" font-weight="700">Code</text>
-    <rect x="138" y="0" width="118" height="42" rx="12" fill="#1f2937" stroke="#7c3aed"/>
-    <text x="158" y="27" fill="#a78bfa" font-family="Arial" font-size="15" font-weight="700">Commit</text>
-    <rect x="276" y="0" width="118" height="42" rx="12" fill="#1f2937" stroke="#22c55e"/>
-    <text x="296" y="27" fill="#22c55e" font-family="Arial" font-size="15" font-weight="700">Build</text>
-    <rect x="414" y="0" width="118" height="42" rx="12" fill="#1f2937" stroke="#06b6d4"/>
-    <text x="434" y="27" fill="#67e8f9" font-family="Arial" font-size="15" font-weight="700">Deploy</text>
-    <rect x="552" y="0" width="118" height="42" rx="12" fill="#1f2937" stroke="#f59e0b"/>
-    <text x="572" y="27" fill="#fbbf24" font-family="Arial" font-size="15" font-weight="700">Learn</text>
-    <rect x="690" y="0" width="118" height="42" rx="12" fill="#1f2937" stroke="#ef4444"/>
-    <text x="710" y="27" fill="#f87171" font-family="Arial" font-size="15" font-weight="700">Ship</text>
-  </g>
+  <text x="30" y="66" fill="#8b949e" font-family="Arial" font-size="13">Repository achievements · 2026-07-02 05:28 UTC</text>
+  <rect x="30" y="88" width="130" height="46" rx="13" fill="#1f2937" stroke="#7c3aed"/><text x="46" y="116" fill="#7c3aed" font-family="Arial" font-size="15" font-weight="700">Repos: 14</text><rect x="174" y="88" width="130" height="46" rx="13" fill="#1f2937" stroke="#ff6ec7"/><text x="190" y="116" fill="#ff6ec7" font-family="Arial" font-size="15" font-weight="700">Stars: 2</text><rect x="318" y="88" width="130" height="46" rx="13" fill="#1f2937" stroke="#06b6d4"/><text x="334" y="116" fill="#06b6d4" font-family="Arial" font-size="15" font-weight="700">Forks: 2</text><rect x="462" y="88" width="130" height="46" rx="13" fill="#1f2937" stroke="#22c55e"/><text x="478" y="116" fill="#22c55e" font-family="Arial" font-size="15" font-weight="700">Languages: 6</text><rect x="606" y="88" width="130" height="46" rx="13" fill="#1f2937" stroke="#f59e0b"/><text x="622" y="116" fill="#f59e0b" font-family="Arial" font-size="15" font-weight="700">Active Days: 3</text><rect x="750" y="88" width="130" height="46" rx="13" fill="#1f2937" stroke="#ef4444"/><text x="766" y="116" fill="#ef4444" font-family="Arial" font-size="15" font-weight="700">Contribs: 46</text>
 </svg>
