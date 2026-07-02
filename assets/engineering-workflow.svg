@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="240" viewBox="0 0 1100 240">
+  <rect width="1100" height="240" rx="24" fill="#0d1117"/>
+  <text x="44" y="54" fill="#f8fafc" font-family="Arial" font-size="26" font-weight="700">Engineering Workflow</text>
+  <text x="44" y="82" fill="#8b949e" font-family="Arial" font-size="14">Discover → Design → Build → Optimize → Deploy → Automate</text>
+  <g font-family="Arial" font-size="15" font-weight="700">
+    <rect x="44" y="122" width="142" height="56" rx="16" fill="#111827" stroke="#7c3aed"/><text x="78" y="156" fill="#a78bfa">Discover</text>
+    <path d="M198 150 L238 150" stroke="#374151" stroke-width="4" stroke-linecap="round"/><path d="M232 142 L242 150 L232 158" fill="none" stroke="#374151" stroke-width="4" stroke-linecap="round"/>
+    <rect x="250" y="122" width="142" height="56" rx="16" fill="#111827" stroke="#06b6d4"/><text x="294" y="156" fill="#67e8f9">Design</text>
+    <path d="M404 150 L444 150" stroke="#374151" stroke-width="4" stroke-linecap="round"/><path d="M438 142 L448 150 L438 158" fill="none" stroke="#374151" stroke-width="4" stroke-linecap="round"/>
+    <rect x="456" y="122" width="142" height="56" rx="16" fill="#111827" stroke="#22c55e"/><text x="501" y="156" fill="#22c55e">Build</text>
+    <path d="M610 150 L650 150" stroke="#374151" stroke-width="4" stroke-linecap="round"/><path d="M644 142 L654 150 L644 158" fill="none" stroke="#374151" stroke-width="4" stroke-linecap="round"/>
+    <rect x="662" y="122" width="142" height="56" rx="16" fill="#111827" stroke="#f59e0b"/><text x="700" y="156" fill="#fbbf24">Optimize</text>
+    <path d="M816 150 L856 150" stroke="#374151" stroke-width="4" stroke-linecap="round"/><path d="M850 142 L860 150 L850 158" fill="none" stroke="#374151" stroke-width="4" stroke-linecap="round"/>
+    <rect x="868" y="122" width="142" height="56" rx="16" fill="#111827" stroke="#ec4899"/><text x="904" y="156" fill="#f472b6">Deploy</text>
+  </g>
+</svg>
