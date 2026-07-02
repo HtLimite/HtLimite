@@ -20,47 +20,43 @@
   <img src="https://img.shields.io/github/followers/HtLimite?label=Followers&style=flat-square&logo=github" alt="GitHub Followers" />
   <img src="https://img.shields.io/github/stars/HtLimite/HtLimite?label=Profile%20Repo%20Stars&style=flat-square&logo=github" alt="GitHub Stars" />
   <img src="https://img.shields.io/badge/Focus-Engineering%20Delivery-7C3AED?style=flat-square" alt="Engineering Delivery" />
+  <img src="https://img.shields.io/badge/Style-Visual%20Portfolio-06B6D4?style=flat-square" alt="Visual Portfolio" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=1000&lines=Build+reliable+business+systems;Ship+frontend+products+with+engineering+quality;React+%2F+Vue+%2F+TypeScript+%2F+Uni-app+%2F+Spring+Boot;AI-assisted+development+%7C+DevOps+%7C+Automation" alt="Typing SVG" />
 </p>
 
 ---
 
-## 01 · Value Proposition
+## 01 · Visual Expertise
 
-I build **reliable, maintainable and practical business systems** with a focus on frontend engineering, multi-platform delivery and AI-assisted productivity.
-
-| Priority | Area | What I care about |
-| --- | --- | --- |
-| P0 | Reliability | Stable pages, clear data flow, permission boundaries and graceful fallback |
-| P1 | Maintainability | Component abstraction, module boundaries, state management and API layers |
-| P2 | Delivery Speed | Code standards, build optimization, debugging efficiency and deployment automation |
-| P3 | User Experience | Search, filters, batch operations, import/export and mobile interaction |
-| P4 | AI Workflow | Agent coding, CLI workflow, documentation, debugging and automation |
+<p align="center">
+  <img src="./assets/expertise-dashboard.svg" alt="Expertise Dashboard" />
+</p>
 
 ---
 
-## 02 · Core Expertise
+## 02 · Engineering Workflow
 
-| Domain | Practical Focus |
-| --- | --- |
-| B-end Admin Systems | Complex tables, forms, permission control, workflow pages and business configuration |
-| Frontend Engineering | React, Vue, TypeScript, routing, state, component design and build optimization |
-| Mobile & Mini Program | Uni-app, WeChat Mini Program, mobile H5, authentication and API integration |
-| Full-stack Practice | Spring Boot, Node.js, Laravel, MySQL, Redis, Docker and Nginx deployment |
-| AI-assisted Workflow | AI coding tools, CLI workflow, debugging, documentation and productivity automation |
+<p align="center">
+  <img src="./assets/engineering-workflow.svg" alt="Engineering Workflow" />
+</p>
 
 ---
 
-## 03 · Representative Work
+## 03 · Project Showcase
 
-| Project | Focus | Stack |
-| --- | --- | --- |
-| [housekeep-admin-vue](https://github.com/HtLimite/housekeep-admin-vue) | B-end admin system, complex lists, forms and permission logic | Vue, Admin, API |
-| [housekeep-api](https://github.com/HtLimite/housekeep-api) | Backend API service and business data layer | Backend, API, Service |
-| [housekeep-foundations](https://github.com/HtLimite/housekeep-foundations) | Shared foundation and common modules | Foundation, Common |
-| [housekeep-customer](https://github.com/HtLimite/housekeep-customer) | Customer-side business application | Customer, App |
-| [credit](https://github.com/HtLimite/credit) | Node.js full-stack practice | Node.js, Full-stack |
-| [ai-gemini-report](https://github.com/HtLimite/ai-gemini-report) | AI and Gemini related practice | AI, Gemini |
-| [HtLimite.github.io](https://github.com/HtLimite/HtLimite.github.io) | Personal site and blog | Blog, GitHub Pages |
+<p align="center">
+  <img src="./assets/project-showcase.svg" alt="Project Showcase" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/HtLimite/housekeep-admin-vue"><img src="https://img.shields.io/badge/housekeep--admin--vue-B--end%20Admin-7C3AED?style=flat-square&logo=vue.js&logoColor=white" /></a>
+  <a href="https://github.com/HtLimite/housekeep-api"><img src="https://img.shields.io/badge/housekeep--api-Backend%20API-06B6D4?style=flat-square&logo=springboot&logoColor=white" /></a>
+  <a href="https://github.com/HtLimite/credit"><img src="https://img.shields.io/badge/credit-Node.js%20Full--stack-22C55E?style=flat-square&logo=node.js&logoColor=white" /></a>
+  <a href="https://github.com/HtLimite/ai-gemini-report"><img src="https://img.shields.io/badge/ai--gemini--report-AI%20Practice-F59E0B?style=flat-square&logo=googlegemini&logoColor=white" /></a>
+</p>
 
 ---
 
@@ -70,54 +66,25 @@ I build **reliable, maintainable and practical business systems** with a focus o
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,vue,react,nextjs,vite,webpack,nodejs,java,spring,php,laravel,mysql,redis,docker,nginx,git,github,githubactions,linux,vscode,idea&perline=12" alt="Skill Icons" />
 </p>
 
-### Frontend
-
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Umi-000000?style=flat-square&logo=umijs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ant%20Design-0170FE?style=flat-square&logo=antdesign&logoColor=white" />
-  <img src="https://img.shields.io/badge/Element%20Plus-409EFF?style=flat-square&logo=element&logoColor=white" />
-  <img src="https://img.shields.io/badge/ECharts-AA344D?style=flat-square&logo=apacheecharts&logoColor=white" />
   <img src="https://img.shields.io/badge/Uni--app-2B9939?style=flat-square" />
   <img src="https://img.shields.io/badge/WeChat%20Mini%20Program-07C160?style=flat-square&logo=wechat&logoColor=white" />
-</p>
-
-### Backend / DevOps / AI
-
-<p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" />
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white" />
-  <img src="https://img.shields.io/badge/ChatGPT-412991?style=flat-square&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub%20Copilot-000000?style=flat-square&logo=githubcopilot&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI%20Agent-7C3AED?style=flat-square" />
 </p>
 
 ---
 
-## 05 · Engineering Map
-
-```txt
-Frontend Engineering
-├── Architecture       # routing, permission, state, API layer
-├── UI Productivity    # forms, tables, filters, import/export
-├── Quality            # readability, maintainability, error handling
-├── Build & Delivery   # Vite, Webpack, pnpm, Docker, Nginx, Jenkins
-└── AI Workflow        # coding assistant, debugging, documentation, automation
-```
-
----
-
-## 06 · GitHub Overview
+## 05 · GitHub Dashboard
 
 <table>
   <tr>
@@ -136,7 +103,7 @@ Frontend Engineering
 
 ---
 
-## 07 · Contribution Activity
+## 06 · Contribution Zone
 
 <p align="center">
   <img src="./assets/contribution-activity.svg" alt="Contribution Activity" />
@@ -152,28 +119,30 @@ Frontend Engineering
 
 ---
 
-## 08 · Current Focus
+## 07 · Current Focus
 
-```txt
-Frontend  : React / Vue / TypeScript / Uni-app / Mini Program
-Business  : Admin systems / complex forms / permission / i18n / workflow
-Backend   : Spring Boot / Node.js / Laravel / MySQL / Redis
-DevOps    : Docker / Nginx / Jenkins / Linux / deployment automation
-AI Tools  : Coding Agent / CLI workflow / productivity automation
-```
-
----
-
-## 09 · Principles
-
-- **Business first**: technology should solve real problems.
-- **Reliable delivery**: stable, clear and maintainable beats flashy.
-- **Engineering mindset**: code, standards, deployment and collaboration all matter.
-- **Continuous improvement**: keep learning tools, workflows and better ways to ship.
+<p align="center">
+  <img src="https://img.shields.io/badge/Frontend-React%20%2F%20Vue%20%2F%20TypeScript-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Business-B--end%20Systems-7C3AED?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Backend-Spring%20Boot%20%2F%20Node.js-22C55E?style=for-the-badge&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/DevOps-Docker%20%2F%20Nginx%20%2F%20Jenkins-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI-Coding%20Agent%20%2F%20CLI%20Workflow-EC4899?style=for-the-badge" />
+</p>
 
 ---
 
-## 10 · Contact
+## 08 · Principles
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Business%20First-Solve%20real%20problems-111827?style=flat-square" />
+  <img src="https://img.shields.io/badge/Reliable%20Delivery-Stable%20and%20maintainable-111827?style=flat-square" />
+  <img src="https://img.shields.io/badge/Engineering%20Mindset-Code%20to%20deployment-111827?style=flat-square" />
+  <img src="https://img.shields.io/badge/Continuous%20Improvement-Learn%20and%20ship-111827?style=flat-square" />
+</p>
+
+---
+
+## 09 · Contact
 
 <p align="center">
   <a href="https://github.com/HtLimite"><img src="https://img.shields.io/badge/GitHub-HtLimite-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
