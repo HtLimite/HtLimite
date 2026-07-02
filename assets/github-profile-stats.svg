@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="520" height="220" viewBox="0 0 520 220">
+  <rect x="1" y="1" width="518" height="218" rx="16" fill="#141321" stroke="#30363d"/>
+  <text x="28" y="42" fill="#f8fafc" font-family="Arial" font-size="22" font-weight="700">GitHub Stats</text>
+  <text x="28" y="66" fill="#8b949e" font-family="Arial" font-size="13">Local SVG card for HtLimite</text>
+  <rect x="28" y="90" width="140" height="54" rx="12" fill="#1f2937" stroke="#374151"/>
+  <text x="44" y="113" fill="#c9d1d9" font-family="Arial" font-size="13">Focus</text>
+  <text x="44" y="136" fill="#ffffff" font-family="Arial" font-size="22" font-weight="700">Frontend</text>
+  <rect x="188" y="90" width="140" height="54" rx="12" fill="#1f2937" stroke="#374151"/>
+  <text x="204" y="113" fill="#c9d1d9" font-family="Arial" font-size="13">Stack</text>
+  <text x="204" y="136" fill="#ffffff" font-family="Arial" font-size="22" font-weight="700">Full-stack</text>
+  <rect x="348" y="90" width="140" height="54" rx="12" fill="#1f2937" stroke="#374151"/>
+  <text x="364" y="113" fill="#c9d1d9" font-family="Arial" font-size="13">Workflow</text>
+  <text x="364" y="136" fill="#ffffff" font-family="Arial" font-size="22" font-weight="700">AI</text>
+  <text x="28" y="174" fill="#c9d1d9" font-family="Arial" font-size="13">Profile completeness</text>
+  <rect x="28" y="188" width="464" height="12" rx="6" fill="#30363d"/>
+  <rect x="28" y="188" width="424" height="12" rx="6" fill="#ff6ec7"/>
+</svg>
