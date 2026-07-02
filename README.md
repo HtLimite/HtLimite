@@ -200,8 +200,8 @@
 
 <table>
   <tr>
-    <td width="50%"><img src="https://github-readme-stats.vercel.app/api?username=HtLimite&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" alt="GitHub Stats" /></td>
-    <td width="50%"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HtLimite&layout=compact&theme=radical&hide_border=true&langs_count=10" alt="Top Languages" /></td>
+    <td width="50%"><img src="./assets/github-profile-stats.svg" alt="GitHub Stats" /></td>
+    <td width="50%"><img src="./assets/top-languages.svg" alt="Top Languages" /></td>
   </tr>
 </table>
 
