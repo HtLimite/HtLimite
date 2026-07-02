@@ -146,31 +146,33 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Overview
+
+<table>
+  <tr>
+    <td width="50%"><img src="./assets/github-profile-stats.svg" alt="GitHub Stats" /></td>
+    <td width="50%"><img src="./assets/top-languages.svg" alt="Top Languages" /></td>
+  </tr>
+</table>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=HtLimite&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" alt="GitHub Stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HtLimite&layout=compact&theme=radical&hide_border=true&langs_count=10" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.demolab.com?user=HtLimite&theme=radical&hide_border=true&border_radius=8&date_format=%5BY.%5Dn.j" alt="GitHub Streak" />
-</p>
-
----
-
-## 🏆 GitHub Trophy
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=HtLimite&theme=radical&no-frame=true&no-bg=true&margin-w=8&margin-h=8&row=1&column=7" alt="GitHub Trophy" />
+  <img src="./assets/github-streak.svg" alt="GitHub Streak" />
 </p>
 
 ---
 
-## 📈 Contribution Activity Graph
+## 🏆 Trophy Board
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HtLimite&theme=react-dark&hide_border=true&area=true&custom_title=HtLimite%20Contribution%20Graph" alt="Contribution Activity Graph" />
+  <img src="./assets/github-trophy.svg" alt="GitHub Trophy" />
+</p>
+
+---
+
+## 📈 Contribution Activity
+
+<p align="center">
+  <img src="./assets/contribution-activity.svg" alt="Contribution Activity" />
 </p>
 
 ---
