@@ -206,11 +206,11 @@
 </table>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.demolab.com?user=HtLimite&theme=radical&hide_border=true&border_radius=8&date_format=%5BY.%5Dn.j" alt="GitHub Streak" />
+  <img src="./assets/github-streak.svg" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=HtLimite&theme=radical&no-frame=true&no-bg=true&margin-w=8&margin-h=8&row=1&column=7" alt="GitHub Trophy" />
+  <img src="./assets/github-trophy.svg" alt="GitHub Trophy" />
 </p>
 
 ---
