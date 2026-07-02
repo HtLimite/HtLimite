@@ -48,15 +48,86 @@
 
 ## 03 · 项目展示 / Project Showcase
 
-<p align="center">
-  <img src="./assets/project-showcase.svg" alt="Project Showcase" />
-</p>
+> 下面是可点击项目卡片，项目名和按钮都可以直接跳转到对应仓库。
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/HtLimite/housekeep-admin-vue">🏢 housekeep-admin-vue</a></h3>
+      <p><b>B 端管理后台前端项目</b></p>
+      <p>面向业务管理场景，关注复杂列表、搜索筛选、表单、权限控制和后台页面组织。</p>
+      <p>
+        <img src="https://img.shields.io/badge/Vue-4FC08D?style=flat-square&logo=vue.js&logoColor=white" />
+        <img src="https://img.shields.io/badge/Admin-7C3AED?style=flat-square" />
+        <img src="https://img.shields.io/badge/B--end-System-06B6D4?style=flat-square" />
+      </p>
+      <p><a href="https://github.com/HtLimite/housekeep-admin-vue"><img src="https://img.shields.io/badge/Open%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" /></a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/HtLimite/housekeep-api">⚙️ housekeep-api</a></h3>
+      <p><b>后端 API 与业务服务层</b></p>
+      <p>用于承载业务接口、数据处理和服务层逻辑，适合作为前后端联调与全栈实践入口。</p>
+      <p>
+        <img src="https://img.shields.io/badge/API-06B6D4?style=flat-square" />
+        <img src="https://img.shields.io/badge/Backend-22C55E?style=flat-square" />
+        <img src="https://img.shields.io/badge/Service-F59E0B?style=flat-square" />
+      </p>
+      <p><a href="https://github.com/HtLimite/housekeep-api"><img src="https://img.shields.io/badge/Open%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" /></a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/HtLimite/credit">💳 credit</a></h3>
+      <p><b>Node.js 全栈项目实践</b></p>
+      <p>用于沉淀 Node.js、接口、页面和全栈业务开发能力。</p>
+      <p>
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+        <img src="https://img.shields.io/badge/Full--stack-22C55E?style=flat-square" />
+        <img src="https://img.shields.io/badge/Practice-7C3AED?style=flat-square" />
+      </p>
+      <p><a href="https://github.com/HtLimite/credit"><img src="https://img.shields.io/badge/Open%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" /></a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/HtLimite/ai-gemini-report">🤖 ai-gemini-report</a></h3>
+      <p><b>AI / Gemini 相关实践</b></p>
+      <p>记录 AI 工具、报告生成、智能化工作流和自动化提效相关探索。</p>
+      <p>
+        <img src="https://img.shields.io/badge/AI-EC4899?style=flat-square" />
+        <img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" />
+        <img src="https://img.shields.io/badge/Workflow-F59E0B?style=flat-square" />
+      </p>
+      <p><a href="https://github.com/HtLimite/ai-gemini-report"><img src="https://img.shields.io/badge/Open%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" /></a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/HtLimite/HtLimite.github.io">🌐 HtLimite.github.io</a></h3>
+      <p><b>个人站点 / 技术博客</b></p>
+      <p>用于展示个人站点、技术记录、项目沉淀和长期学习内容。</p>
+      <p>
+        <img src="https://img.shields.io/badge/Blog-0A66C2?style=flat-square&logo=google-chrome&logoColor=white" />
+        <img src="https://img.shields.io/badge/GitHub%20Pages-181717?style=flat-square&logo=github&logoColor=white" />
+      </p>
+      <p><a href="https://github.com/HtLimite/HtLimite.github.io"><img src="https://img.shields.io/badge/Open%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" /></a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/HtLimite/library">📚 library</a></h3>
+      <p><b>代码、工具与学习资料沉淀</b></p>
+      <p>用于收集常用代码片段、工具资料、学习笔记和长期积累内容。</p>
+      <p>
+        <img src="https://img.shields.io/badge/Notes-7C3AED?style=flat-square" />
+        <img src="https://img.shields.io/badge/Tools-06B6D4?style=flat-square" />
+        <img src="https://img.shields.io/badge/Collection-22C55E?style=flat-square" />
+      </p>
+      <p><a href="https://github.com/HtLimite/library"><img src="https://img.shields.io/badge/Open%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" /></a></p>
+    </td>
+  </tr>
+</table>
 
 <p align="center">
-  <a href="https://github.com/HtLimite/housekeep-admin-vue"><img src="https://img.shields.io/badge/housekeep--admin--vue-B--end%20Admin-7C3AED?style=flat-square&logo=vue.js&logoColor=white" /></a>
-  <a href="https://github.com/HtLimite/housekeep-api"><img src="https://img.shields.io/badge/housekeep--api-Backend%20API-06B6D4?style=flat-square&logo=springboot&logoColor=white" /></a>
-  <a href="https://github.com/HtLimite/credit"><img src="https://img.shields.io/badge/credit-Node.js%20Full--stack-22C55E?style=flat-square&logo=node.js&logoColor=white" /></a>
-  <a href="https://github.com/HtLimite/ai-gemini-report"><img src="https://img.shields.io/badge/ai--gemini--report-AI%20Practice-F59E0B?style=flat-square&logo=googlegemini&logoColor=white" /></a>
+  <a href="https://github.com/HtLimite/housekeep-foundations"><img src="https://img.shields.io/badge/housekeep--foundations-公共模块-7C3AED?style=for-the-badge" /></a>
+  <a href="https://github.com/HtLimite/housekeep-customer"><img src="https://img.shields.io/badge/housekeep--customer-客户端项目-06B6D4?style=for-the-badge" /></a>
+  <a href="https://github.com/HtLimite/Vue"><img src="https://img.shields.io/badge/Vue-学习与实践-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" /></a>
 </p>
 
 ---
