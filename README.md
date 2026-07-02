@@ -32,23 +32,63 @@
 
 ## 01 · 能力全景 / Visual Expertise
 
-<p align="center">
-  <img src="./assets/expertise-dashboard.svg" alt="Expertise Dashboard" />
-</p>
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <h3>🎨 Frontend Engineering</h3>
+      <p>React · Vue · TypeScript · Umi · Vite</p>
+      <img src="https://img.shields.io/badge/Frontend-工程化交付-7C3AED?style=for-the-badge" />
+    </td>
+    <td align="center" width="33%">
+      <h3>🏢 B-end Systems</h3>
+      <p>复杂表格 · 表单 · 权限 · 流程 · 导入导出</p>
+      <img src="https://img.shields.io/badge/B--end-复杂业务系统-06B6D4?style=for-the-badge" />
+    </td>
+    <td align="center" width="33%">
+      <h3>🚀 Full-stack Delivery</h3>
+      <p>Spring Boot · Node.js · MySQL · Redis · Docker</p>
+      <img src="https://img.shields.io/badge/Delivery-全栈实践-22C55E?style=for-the-badge" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="33%">
+      <h3>🧰 DevOps Workflow</h3>
+      <p>Nginx · Jenkins · Linux · CI/CD · 自动化部署</p>
+      <img src="https://img.shields.io/badge/DevOps-部署与自动化-F59E0B?style=for-the-badge" />
+    </td>
+    <td align="center" width="33%">
+      <h3>🤖 AI-assisted Work</h3>
+      <p>Coding Agent · CLI Workflow · Debugging · Docs</p>
+      <img src="https://img.shields.io/badge/AI-研发提效-EC4899?style=for-the-badge" />
+    </td>
+    <td align="center" width="33%">
+      <h3>🧩 Product Thinking</h3>
+      <p>稳定 · 清晰 · 可维护 · 可交付</p>
+      <img src="https://img.shields.io/badge/Product-业务优先-111827?style=for-the-badge" />
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## 02 · 工程流程 / Engineering Workflow
 
 <p align="center">
-  <img src="./assets/engineering-workflow.svg" alt="Engineering Workflow" />
+  <img src="https://img.shields.io/badge/01-Discover-7C3AED?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/02-Design-06B6D4?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/03-Build-22C55E?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/04-Optimize-F59E0B?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/05-Deploy-EC4899?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/06-Automate-111827?style=for-the-badge" />
 </p>
+
+```txt
+需求理解 → 方案拆解 → 组件开发 → 联调优化 → 部署上线 → 自动化提效
+```
 
 ---
 
 ## 03 · 项目展示 / Project Showcase
-
-> 下面是可点击项目卡片，项目名和按钮都可以直接跳转到对应仓库。
 
 <table>
   <tr>
@@ -160,17 +200,17 @@
 
 <table>
   <tr>
-    <td width="50%"><img src="./assets/github-profile-stats.svg" alt="GitHub Stats" /></td>
-    <td width="50%"><img src="./assets/top-languages.svg" alt="Top Languages" /></td>
+    <td width="50%"><img src="https://github-readme-stats.vercel.app/api?username=HtLimite&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" alt="GitHub Stats" /></td>
+    <td width="50%"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HtLimite&layout=compact&theme=radical&hide_border=true&langs_count=10" alt="Top Languages" /></td>
   </tr>
 </table>
 
 <p align="center">
-  <img src="./assets/github-streak.svg" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.demolab.com?user=HtLimite&theme=radical&hide_border=true&border_radius=8&date_format=%5BY.%5Dn.j" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="./assets/github-trophy.svg" alt="GitHub Trophy" />
+  <img src="https://github-profile-trophy.vercel.app/?username=HtLimite&theme=radical&no-frame=true&no-bg=true&margin-w=8&margin-h=8&row=1&column=7" alt="GitHub Trophy" />
 </p>
 
 ---
@@ -178,7 +218,7 @@
 ## 06 · 贡献活动 / Contribution Zone
 
 <p align="center">
-  <img src="./assets/contribution-activity.svg" alt="Contribution Activity" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HtLimite&theme=react-dark&hide_border=true&area=true&custom_title=HtLimite%20Contribution%20Activity" alt="Contribution Activity Graph" />
 </p>
 
 <p align="center">
@@ -186,7 +226,11 @@
 </p>
 
 <p align="center">
-  <img src="./assets/github-contribution-grid-snake.svg" alt="Contribution Snake" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/github-contribution-grid-snake.svg" />
+    <img src="./assets/github-contribution-grid-snake.svg" alt="Contribution Snake" />
+  </picture>
 </p>
 
 ---
