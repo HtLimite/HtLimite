@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="300" viewBox="0 0 1100 300">
+  <rect width="1100" height="300" rx="24" fill="#0d1117"/>
+  <circle cx="940" cy="60" r="180" fill="#7c3aed" opacity="0.28"/>
+  <circle cx="120" cy="260" r="160" fill="#06b6d4" opacity="0.18"/>
+  <rect x="48" y="48" width="1004" height="204" rx="20" fill="#111827" opacity="0.82" stroke="#30363d"/>
+  <text x="86" y="108" fill="#f8fafc" font-family="Arial" font-size="34" font-weight="700">HtLimite</text>
+  <text x="86" y="148" fill="#c9d1d9" font-family="Arial" font-size="20">Frontend Engineer · B-end Systems · Full-stack Practice · AI-assisted Workflow</text>
+  <text x="86" y="190" fill="#8b949e" font-family="Arial" font-size="15">Build reliable business systems with clean architecture, practical engineering and continuous delivery.</text>
+  <rect x="86" y="214" width="136" height="32" rx="16" fill="#7c3aed"/>
+  <text x="111" y="235" fill="#ffffff" font-family="Arial" font-size="14" font-weight="700">React / Vue</text>
+  <rect x="238" y="214" width="154" height="32" rx="16" fill="#2563eb"/>
+  <text x="263" y="235" fill="#ffffff" font-family="Arial" font-size="14" font-weight="700">TypeScript</text>
+  <rect x="408" y="214" width="152" height="32" rx="16" fill="#059669"/>
+  <text x="433" y="235" fill="#ffffff" font-family="Arial" font-size="14" font-weight="700">DevOps</text>
+  <rect x="576" y="214" width="164" height="32" rx="16" fill="#db2777"/>
+  <text x="601" y="235" fill="#ffffff" font-family="Arial" font-size="14" font-weight="700">AI Tools</text>
+</svg>
