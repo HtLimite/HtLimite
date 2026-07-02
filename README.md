@@ -1,28 +1,30 @@
 <h1 align="center">Hi 👋, I'm HtLimite</h1>
-<h3 align="center">Frontend Developer · 企业级业务系统 · 多端应用 · AI-assisted Development</h3>
+
+<h3 align="center">
+  Frontend Developer · 企业级业务系统 · 多端应用 · AI-assisted Development
+</h3>
 
 <p align="center">
   <a href="https://github.com/HtLimite">
-    <img src="https://img.shields.io/github/followers/HtLimite?label=GitHub%20Followers&style=flat-square&logo=github" alt="GitHub followers" />
+    <img src="https://img.shields.io/badge/GitHub-HtLimite-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=HtLimite&label=Profile%20Views&style=flat-square" alt="Profile views" />
   <a href="https://wyy.hair">
     <img src="https://img.shields.io/badge/Blog-wyy.hair-0A66C2?style=flat-square&logo=google-chrome&logoColor=white" alt="Blog" />
   </a>
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=900&center=true&vCenter=true&width=900&lines=Build+clean%2C+reliable+and+practical+frontend+products;React+%2F+Vue+%2F+TypeScript+%2F+Uni-app+%2F+Mini+Program;B-end+systems+%7C+Engineering+%7C+AI-assisted+development" alt="Typing SVG" />
+  <img src="https://img.shields.io/badge/Focus-Frontend%20Engineering-42B883?style=flat-square" alt="Focus" />
+  <img src="https://img.shields.io/badge/AI-assisted%20Development-7C3AED?style=flat-square" alt="AI-assisted Development" />
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-* 🔭 专注方向：企业级 B 端中后台、移动端 H5、Uni-app、微信小程序与多端业务系统。
-* 🧩 常做场景：复杂表格 / 表单、权限控制、多语言、接口封装、状态管理、组件抽象、性能优化。
-* 🤖 正在探索：AI Agent 协作研发、自动化部署、前后端工程化与效率工具。
-* 💬 可以交流：React、Vue、TypeScript、Umi、HZero、Choerodon UI、Uni-app、Spring Boot、Docker。
+你好，我是 **HtLimite**，一名前端开发者，主要关注 **企业级业务系统、多端应用、前端工程化和 AI 辅助研发**。
+
+* 🔭 专注方向：B 端中后台、移动端 H5、Uni-app、微信小程序、企业级业务系统。
+* 🧩 常做场景：复杂表格、复杂表单、权限控制、导入导出、接口封装、组件抽象、状态管理。
+* ⚙️ 工程能力：Monorepo、构建优化、代码规范、前后端联调、Docker / Nginx 部署。
+* 🤖 正在探索：AI Agent、AI 编程工具、CLI 工作流、自动化提效、智能化研发。
 * 🌐 Blog：<a href="https://wyy.hair">wyy.hair</a>
 
 ---
@@ -80,8 +82,8 @@
 | Direction             | Practical Focus                                         |
 | --------------------- | ------------------------------------------------------- |
 | B-end Admin Systems   | 复杂列表、搜索筛选、批量操作、权限控制、导入导出、业务流程配置                         |
-| Mobile & Mini Program | Uni-app、微信小程序、移动端 H5、接口封装、登录鉴权、页面性能优化                   |
-| Frontend Engineering  | 组件抽象、状态管理、路由权限、构建优化、Monorepo、代码规范与交付质量                  |
+| Mobile & Mini Program | Uni-app、微信小程序、移动端 H5、登录鉴权、接口封装、页面性能优化                   |
+| Frontend Engineering  | 组件抽象、状态管理、路由权限、构建优化、Monorepo、代码规范                       |
 | Full-stack Practice   | Spring Boot、Node.js、Laravel、MySQL、Redis、Docker、Nginx 部署 |
 | AI-assisted Workflow  | 使用 AI Agent / CLI 工具辅助编码、排错、文档生成、自动化提效                  |
 
@@ -101,27 +103,6 @@
 
 ---
 
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=HtLimite&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HtLimite&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HtLimite&theme=radical&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=HtLimite&theme=radical&no-frame=true&no-bg=true&margin-w=8&row=1" alt="GitHub Trophy" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HtLimite&theme=react-dark&hide_border=true&area=true" alt="Contribution Activity Graph" />
-</p>
-
----
-
 ## 📌 Current Focus
 
 ```txt
@@ -131,6 +112,32 @@ Backend   : Spring Boot / Node.js / Laravel / MySQL / Redis
 DevOps    : Docker / Nginx / Jenkins / Linux / deployment automation
 AI Tools  : Coding Agent / CLI workflow / productivity automation
 ```
+
+---
+
+## 🧭 Repository Map
+
+```txt
+HtLimite
+├── housekeep-admin-vue     # B 端管理后台前端
+├── housekeep-api           # 后端 API 服务
+├── housekeep-foundations   # 基础能力 / 公共模块
+├── housekeep-customer      # 客户端 / 业务端项目
+├── credit                  # Node.js 全栈项目
+├── Vue                     # Vue 学习与实践
+├── library                 # 代码与资料沉淀
+├── ai-gemini-report        # AI / Gemini 相关实践
+└── HtLimite.github.io      # 个人站点 / 博客
+```
+
+---
+
+## 🧠 Development Philosophy
+
+* **实用优先**：技术服务业务，优先解决真实问题。
+* **稳定交付**：关注可维护性、可读性、可扩展性。
+* **持续学习**：保持对新技术、新工具和 AI 工作流的探索。
+* **工程思维**：不仅写功能，也关注效率、规范、部署和协作。
 
 ---
 
