@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="430" viewBox="0 0 1100 430">
+  <rect width="1100" height="430" rx="24" fill="#0d1117"/>
+  <text x="44" y="56" fill="#f8fafc" font-family="Arial" font-size="28" font-weight="700">Project Showcase</text>
+  <text x="44" y="84" fill="#8b949e" font-family="Arial" font-size="15">Representative repositories mapped by engineering value</text>
+  <rect x="44" y="118" width="320" height="112" rx="18" fill="#111827" stroke="#7c3aed"/>
+  <text x="72" y="154" fill="#a78bfa" font-family="Arial" font-size="20" font-weight="700">housekeep-admin-vue</text>
+  <text x="72" y="184" fill="#c9d1d9" font-family="Arial" font-size="14">B-end admin system</text>
+  <rect x="72" y="198" width="58" height="20" rx="10" fill="#312e81"/><text x="88" y="213" fill="#ddd6fe" font-family="Arial" font-size="11">Vue</text>
+  <rect x="138" y="198" width="70" height="20" rx="10" fill="#312e81"/><text x="153" y="213" fill="#ddd6fe" font-family="Arial" font-size="11">Admin</text>
+  <rect x="224" y="198" width="64" height="20" rx="10" fill="#312e81"/><text x="239" y="213" fill="#ddd6fe" font-family="Arial" font-size="11">B-end</text>
+  <rect x="390" y="118" width="320" height="112" rx="18" fill="#111827" stroke="#06b6d4"/>
+  <text x="418" y="154" fill="#67e8f9" font-family="Arial" font-size="20" font-weight="700">housekeep-api</text>
+  <text x="418" y="184" fill="#c9d1d9" font-family="Arial" font-size="14">Backend service layer</text>
+  <rect x="418" y="198" width="58" height="20" rx="10" fill="#164e63"/><text x="433" y="213" fill="#cffafe" font-family="Arial" font-size="11">API</text>
+  <rect x="484" y="198" width="88" height="20" rx="10" fill="#164e63"/><text x="499" y="213" fill="#cffafe" font-family="Arial" font-size="11">Backend</text>
+  <rect x="590" y="198" width="78" height="20" rx="10" fill="#164e63"/><text x="606" y="213" fill="#cffafe" font-family="Arial" font-size="11">Service</text>
+  <rect x="736" y="118" width="320" height="112" rx="18" fill="#111827" stroke="#22c55e"/>
+  <text x="764" y="154" fill="#22c55e" font-family="Arial" font-size="20" font-weight="700">credit</text>
+  <text x="764" y="184" fill="#c9d1d9" font-family="Arial" font-size="14">Node.js full-stack practice</text>
+  <rect x="764" y="198" width="74" height="20" rx="10" fill="#14532d"/><text x="779" y="213" fill="#bbf7d0" font-family="Arial" font-size="11">Node.js</text>
+  <rect x="848" y="198" width="92" height="20" rx="10" fill="#14532d"/><text x="863" y="213" fill="#bbf7d0" font-family="Arial" font-size="11">Full-stack</text>
+  <rect x="44" y="258" width="320" height="112" rx="18" fill="#111827" stroke="#f59e0b"/>
+  <text x="72" y="294" fill="#fbbf24" font-family="Arial" font-size="20" font-weight="700">ai-gemini-report</text>
+  <text x="72" y="324" fill="#c9d1d9" font-family="Arial" font-size="14">AI report and workflow practice</text>
+  <rect x="72" y="338" width="48" height="20" rx="10" fill="#78350f"/><text x="88" y="353" fill="#fef3c7" font-family="Arial" font-size="11">AI</text>
+  <rect x="130" y="338" width="76" height="20" rx="10" fill="#78350f"/><text x="145" y="353" fill="#fef3c7" font-family="Arial" font-size="11">Gemini</text>
+  <rect x="390" y="258" width="320" height="112" rx="18" fill="#111827" stroke="#ec4899"/>
+  <text x="418" y="294" fill="#f472b6" font-family="Arial" font-size="20" font-weight="700">HtLimite.github.io</text>
+  <text x="418" y="324" fill="#c9d1d9" font-family="Arial" font-size="14">Personal site and technical notes</text>
+  <rect x="418" y="338" width="60" height="20" rx="10" fill="#831843"/><text x="434" y="353" fill="#fce7f3" font-family="Arial" font-size="11">Blog</text>
+  <rect x="488" y="338" width="94" height="20" rx="10" fill="#831843"/><text x="503" y="353" fill="#fce7f3" font-family="Arial" font-size="11">GitHub Pages</text>
+  <rect x="736" y="258" width="320" height="112" rx="18" fill="#111827" stroke="#ef4444"/>
+  <text x="764" y="294" fill="#f87171" font-family="Arial" font-size="20" font-weight="700">library</text>
+  <text x="764" y="324" fill="#c9d1d9" font-family="Arial" font-size="14">Code snippets and learning assets</text>
+  <rect x="764" y="338" width="66" height="20" rx="10" fill="#7f1d1d"/><text x="779" y="353" fill="#fee2e2" font-family="Arial" font-size="11">Notes</text>
+  <rect x="840" y="338" width="62" height="20" rx="10" fill="#7f1d1d"/><text x="855" y="353" fill="#fee2e2" font-family="Arial" font-size="11">Tools</text>
+</svg>
