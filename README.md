@@ -28,7 +28,6 @@
   <img src="https://img.shields.io/github/stars/HtLimite/HtLimite?label=Profile%20Repo%20Stars&style=flat-square&logo=github" alt="GitHub Stars" />
   <img src="https://img.shields.io/badge/Focus-Frontend%20Engineering-42B883?style=flat-square" alt="Frontend Engineering" />
   <img src="https://img.shields.io/badge/AI-assisted%20Development-7C3AED?style=flat-square" alt="AI-assisted Development" />
-  <img src="https://img.shields.io/badge/Keep-Shipping-FF6B6B?style=flat-square" alt="Keep Shipping" />
 </p>
 
 <p align="center">
@@ -55,22 +54,10 @@
 
 <table>
   <tr>
-    <td align="center" width="25%">
-      <b>Frontend</b><br />
-      React · Vue · TypeScript
-    </td>
-    <td align="center" width="25%">
-      <b>B-end Systems</b><br />
-      Admin · Forms · Tables
-    </td>
-    <td align="center" width="25%">
-      <b>Full-stack</b><br />
-      Spring Boot · Node.js · MySQL
-    </td>
-    <td align="center" width="25%">
-      <b>AI Workflow</b><br />
-      Agent · CLI · Automation
-    </td>
+    <td align="center" width="25%"><b>Frontend</b><br />React · Vue · TypeScript</td>
+    <td align="center" width="25%"><b>B-end Systems</b><br />Admin · Forms · Tables</td>
+    <td align="center" width="25%"><b>Full-stack</b><br />Spring Boot · Node.js · MySQL</td>
+    <td align="center" width="25%"><b>AI Workflow</b><br />Agent · CLI · Automation</td>
   </tr>
 </table>
 
@@ -109,7 +96,7 @@
   <img src="https://img.shields.io/badge/WeChat%20Mini%20Program-07C160?style=flat-square&logo=wechat&logoColor=white" />
 </p>
 
-### Backend & Data
+### Backend / DevOps / AI
 
 <p>
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
@@ -121,40 +108,12 @@
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
-  <img src="https://img.shields.io/badge/RESTful%20API-02569B?style=flat-square" />
-</p>
-
-### Engineering & Tools
-
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" />
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/CentOS-262577?style=flat-square&logo=centos&logoColor=white" />
-  <img src="https://img.shields.io/badge/NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
-  <img src="https://img.shields.io/badge/Yarn-2C8EBB?style=flat-square&logo=yarn&logoColor=white" />
-  <img src="https://img.shields.io/badge/pnpm-F69220?style=flat-square&logo=pnpm&logoColor=white" />
-  <img src="https://img.shields.io/badge/WebStorm-000000?style=flat-square&logo=webstorm&logoColor=white" />
-  <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" />
-  <img src="https://img.shields.io/badge/Chrome-4285F4?style=flat-square&logo=googlechrome&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
-</p>
-
-### AI & Productivity
-
-<p>
   <img src="https://img.shields.io/badge/ChatGPT-412991?style=flat-square&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub%20Copilot-000000?style=flat-square&logo=githubcopilot&logoColor=white" />
-  <img src="https://img.shields.io/badge/Codex-000000?style=flat-square&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white" />
-  <img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" />
   <img src="https://img.shields.io/badge/AI%20Agent-7C3AED?style=flat-square" />
-  <img src="https://img.shields.io/badge/CLI%20Workflow-111827?style=flat-square&logo=gnubash&logoColor=white" />
 </p>
 
 ---
@@ -173,33 +132,6 @@
 
 ## 🚀 Featured Repositories
 
-<table>
-  <tr>
-    <td width="50%">
-      <a href="https://github.com/HtLimite/housekeep-admin-vue">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=HtLimite&repo=housekeep-admin-vue&theme=radical&hide_border=true" alt="housekeep-admin-vue" />
-      </a>
-    </td>
-    <td width="50%">
-      <a href="https://github.com/HtLimite/housekeep-api">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=HtLimite&repo=housekeep-api&theme=radical&hide_border=true" alt="housekeep-api" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <a href="https://github.com/HtLimite/credit">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=HtLimite&repo=credit&theme=radical&hide_border=true" alt="credit" />
-      </a>
-    </td>
-    <td width="50%">
-      <a href="https://github.com/HtLimite/ai-gemini-report">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=HtLimite&repo=ai-gemini-report&theme=radical&hide_border=true" alt="ai-gemini-report" />
-      </a>
-    </td>
-  </tr>
-</table>
-
 | Repository | Description | Keywords |
 | --- | --- | --- |
 | [housekeep-admin-vue](https://github.com/HtLimite/housekeep-admin-vue) | 家政 / 业务管理后台前端项目入口 | Vue, Admin, B-end |
@@ -214,23 +146,6 @@
 
 ---
 
-## 🧭 Repository Map
-
-```txt
-HtLimite
-├── housekeep-admin-vue     # B 端管理后台前端
-├── housekeep-api           # 后端 API 服务
-├── housekeep-foundations   # 基础能力 / 公共模块
-├── housekeep-customer      # 客户端 / 业务端项目
-├── credit                  # Node.js 全栈项目
-├── Vue                     # Vue 学习与实践
-├── library                 # 代码与资料沉淀
-├── ai-gemini-report        # AI / Gemini 相关实践
-└── HtLimite.github.io      # 个人站点 / 博客
-```
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -240,24 +155,6 @@ HtLimite
 
 <p align="center">
   <img src="https://github-readme-streak-stats.demolab.com?user=HtLimite&theme=radical&hide_border=true&border_radius=8&date_format=%5BY.%5Dn.j" alt="GitHub Streak" />
-</p>
-
----
-
-## 📈 GitHub Summary Cards
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HtLimite&theme=radical" alt="Profile Details" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HtLimite&theme=radical" alt="Repos Per Language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=HtLimite&theme=radical" alt="Most Commit Language" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=HtLimite&theme=radical" alt="Stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=HtLimite&theme=radical&utcOffset=8" alt="Productive Time" />
 </p>
 
 ---
@@ -284,28 +181,12 @@ HtLimite
   <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Profile" />
 </p>
 
-> 3D 图由 `.github/workflows/profile-3d.yml` 自动生成。新增后需要手动运行一次 workflow，或等待每日定时任务生成。
-
 ---
 
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HtLimite/HtLimite/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HtLimite/HtLimite/output/github-contribution-grid-snake.svg" />
-    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/HtLimite/HtLimite/output/github-contribution-grid-snake.svg" />
-  </picture>
-</p>
-
-> Snake 由 `.github/workflows/snake.yml` 自动生成到 `output` 分支。如果暂时不显示，可以手动运行一次 workflow。
-
----
-
-## 💡 Dev Quote
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote" />
+  <img src="./assets/github-contribution-grid-snake.svg" alt="Contribution Snake" />
 </p>
 
 ---
@@ -329,16 +210,6 @@ AI Tools  : Coding Agent / CLI workflow / productivity automation
 - **持续学习**：保持对新技术、新工具和 AI 工作流的探索。
 - **工程思维**：不仅写功能，也关注效率、规范、部署和协作。
 - **长期主义**：持续积累项目、文档、工具链和工程经验。
-
----
-
-## 📝 Latest Blog / Notes
-
-<p align="center">
-  <a href="https://wyy.hair">
-    <img src="https://img.shields.io/badge/Visit%20My%20Blog-wyy.hair-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Blog" />
-  </a>
-</p>
 
 ---
 
