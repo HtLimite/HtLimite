@@ -25,7 +25,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=HtLimite&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/HtLimite?label=Followers&style=flat-square&logo=github" alt="GitHub Followers" />
-  <img src="https://img.shields.io/github/stars/HtLimite?label=Stars&style=flat-square&logo=github" alt="GitHub Stars" />
+  <img src="https://img.shields.io/github/stars/HtLimite/HtLimite?label=Profile%20Repo%20Stars&style=flat-square&logo=github" alt="GitHub Stars" />
   <img src="https://img.shields.io/badge/Focus-Frontend%20Engineering-42B883?style=flat-square" alt="Frontend Engineering" />
   <img src="https://img.shields.io/badge/AI-assisted%20Development-7C3AED?style=flat-square" alt="AI-assisted Development" />
 </p>
@@ -40,13 +40,13 @@
 
 你好，我是 **HtLimite**，一名前端开发者，主要关注 **企业级业务系统、多端应用、前端工程化和 AI 辅助研发**。
 
-* 🔭 专注方向：B 端中后台、移动端 H5、Uni-app、微信小程序、企业级业务系统。
-* 🧩 常做场景：复杂表格、复杂表单、权限控制、导入导出、接口封装、组件抽象、状态管理。
-* ⚙️ 工程能力：Monorepo、构建优化、代码规范、前后端联调、Docker / Nginx 部署。
-* 🤖 正在探索：AI Agent、AI 编程工具、CLI 工作流、自动化提效、智能化研发。
-* 💬 可以交流：React、Vue、TypeScript、Umi、HZero、Choerodon UI、Uni-app、Spring Boot、Docker。
-* 🌐 Blog：<a href="https://wyy.hair">wyy.hair</a>
-* 📫 Email：<a href="mailto:quanqiuyouxiang@126.com">[quanqiuyouxiang@126.com](mailto:quanqiuyouxiang@126.com)</a>
+- 🔭 专注方向：B 端中后台、移动端 H5、Uni-app、微信小程序、企业级业务系统。
+- 🧩 常做场景：复杂表格、复杂表单、权限控制、导入导出、接口封装、组件抽象、状态管理。
+- ⚙️ 工程能力：Monorepo、构建优化、代码规范、前后端联调、Docker / Nginx 部署。
+- 🤖 正在探索：AI Agent、AI 编程工具、CLI 工作流、自动化提效、智能化研发。
+- 💬 可以交流：React、Vue、TypeScript、Umi、HZero、Choerodon UI、Uni-app、Spring Boot、Docker。
+- 🌐 Blog：<a href="https://wyy.hair">wyy.hair</a>
+- 📫 Email：<a href="mailto:quanqiuyouxiang@126.com">quanqiuyouxiang@126.com</a>
 
 ---
 
@@ -55,7 +55,7 @@
 ### 🚀 Main Skills
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,vue,react,nextjs,vite,webpack,nodejs,java,spring,php,laravel,mysql,redis,docker,nginx,git,github,linux,vscode,idea&perline=12" alt="Skill Icons" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,vue,react,nextjs,vite,webpack,nodejs,java,spring,php,laravel,mysql,redis,docker,nginx,git,github,githubactions,linux,vscode,idea&perline=12" alt="Skill Icons" />
 </p>
 
 ### Frontend
@@ -135,29 +135,29 @@
 
 ## 🎯 What I Build
 
-| Direction             | Practical Focus                                         |
-| --------------------- | ------------------------------------------------------- |
-| B-end Admin Systems   | 复杂列表、搜索筛选、批量操作、权限控制、导入导出、业务流程配置                         |
-| Mobile & Mini Program | Uni-app、微信小程序、移动端 H5、登录鉴权、接口封装、页面性能优化                   |
-| Frontend Engineering  | 组件抽象、状态管理、路由权限、构建优化、Monorepo、代码规范                       |
-| Full-stack Practice   | Spring Boot、Node.js、Laravel、MySQL、Redis、Docker、Nginx 部署 |
-| AI-assisted Workflow  | 使用 AI Agent / CLI 工具辅助编码、排错、文档生成、自动化提效                  |
+| Direction | Practical Focus |
+| --- | --- |
+| B-end Admin Systems | 复杂列表、搜索筛选、批量操作、权限控制、导入导出、业务流程配置 |
+| Mobile & Mini Program | Uni-app、微信小程序、移动端 H5、登录鉴权、接口封装、页面性能优化 |
+| Frontend Engineering | 组件抽象、状态管理、路由权限、构建优化、Monorepo、代码规范 |
+| Full-stack Practice | Spring Boot、Node.js、Laravel、MySQL、Redis、Docker、Nginx 部署 |
+| AI-assisted Workflow | 使用 AI Agent / CLI 工具辅助编码、排错、文档生成、自动化提效 |
 
 ---
 
 ## 🚀 Featured Repositories
 
-| Repository                                                                 | Description         | Keywords              |
-| -------------------------------------------------------------------------- | ------------------- | --------------------- |
-| [housekeep-admin-vue](https://github.com/HtLimite/housekeep-admin-vue)     | 家政 / 业务管理后台前端项目入口   | Vue, Admin, B-end     |
-| [housekeep-api](https://github.com/HtLimite/housekeep-api)                 | 家政 / 业务系统后端接口项目入口   | API, Backend, Service |
-| [housekeep-foundations](https://github.com/HtLimite/housekeep-foundations) | 基础能力 / 公共模块         | Foundation, Common    |
-| [housekeep-customer](https://github.com/HtLimite/housekeep-customer)       | 客户端 / 业务端项目         | Customer, App         |
-| [credit](https://github.com/HtLimite/credit)                               | Node.js 全栈项目        | Node.js, Full-stack   |
-| [Vue](https://github.com/HtLimite/Vue)                                     | Vue 学习、实践与项目沉淀      | Vue, Frontend         |
-| [library](https://github.com/HtLimite/library)                             | 代码、工具或学习资料沉淀        | Notes, Tools          |
-| [ai-gemini-report](https://github.com/HtLimite/ai-gemini-report)           | AI / Gemini 相关实践与报告 | AI, Gemini            |
-| [HtLimite.github.io](https://github.com/HtLimite/HtLimite.github.io)       | 个人站点 / 博客项目         | Blog, GitHub Pages    |
+| Repository | Description | Keywords |
+| --- | --- | --- |
+| [housekeep-admin-vue](https://github.com/HtLimite/housekeep-admin-vue) | 家政 / 业务管理后台前端项目入口 | Vue, Admin, B-end |
+| [housekeep-api](https://github.com/HtLimite/housekeep-api) | 家政 / 业务系统后端接口项目入口 | API, Backend, Service |
+| [housekeep-foundations](https://github.com/HtLimite/housekeep-foundations) | 基础能力 / 公共模块 | Foundation, Common |
+| [housekeep-customer](https://github.com/HtLimite/housekeep-customer) | 客户端 / 业务端项目 | Customer, App |
+| [credit](https://github.com/HtLimite/credit) | Node.js 全栈项目 | Node.js, Full-stack |
+| [Vue](https://github.com/HtLimite/Vue) | Vue 学习、实践与项目沉淀 | Vue, Frontend |
+| [library](https://github.com/HtLimite/library) | 代码、工具或学习资料沉淀 | Notes, Tools |
+| [ai-gemini-report](https://github.com/HtLimite/ai-gemini-report) | AI / Gemini 相关实践与报告 | AI, Gemini |
+| [HtLimite.github.io](https://github.com/HtLimite/HtLimite.github.io) | 个人站点 / 博客项目 | Blog, GitHub Pages |
 
 ---
 
@@ -217,7 +217,7 @@ HtLimite
   </picture>
 </p>
 
-> 如果上面的 Snake 暂时不显示，需要先添加 GitHub Actions 自动生成，见文末 workflow。
+> Snake 由 `.github/workflows/snake.yml` 自动生成到 `output` 分支。如果暂时不显示，可以手动运行一次 workflow。
 
 ---
 
@@ -235,17 +235,17 @@ AI Tools  : Coding Agent / CLI workflow / productivity automation
 
 ## 🧠 Development Philosophy
 
-* **实用优先**：技术服务业务，优先解决真实问题。
-* **稳定交付**：关注可维护性、可读性、可扩展性。
-* **持续学习**：保持对新技术、新工具和 AI 工作流的探索。
-* **工程思维**：不仅写功能，也关注效率、规范、部署和协作。
-* **长期主义**：持续积累项目、文档、工具链和工程经验。
+- **实用优先**：技术服务业务，优先解决真实问题。
+- **稳定交付**：关注可维护性、可读性、可扩展性。
+- **持续学习**：保持对新技术、新工具和 AI 工作流的探索。
+- **工程思维**：不仅写功能，也关注效率、规范、部署和协作。
+- **长期主义**：持续积累项目、文档、工具链和工程经验。
 
 ---
 
 ## 📝 Latest Blog / Notes
 
-<p>
+<p align="center">
   <a href="https://wyy.hair">
     <img src="https://img.shields.io/badge/Visit%20My%20Blog-wyy.hair-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Blog" />
   </a>
@@ -269,159 +269,9 @@ AI Tools  : Coding Agent / CLI workflow / productivity automation
 
 ---
 
-## ⚙️ Optional GitHub Actions: Contribution Snake
-
-如果想让 `Contribution Snake` 正常显示，可以在仓库新增文件：
-
-```txt
-.github/workflows/snake.yml
-```
-
-内容如下：
-
-```yml
-name: Generate Contribution Snake
-
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-
-jobs:
-  generate:
-    permissions:
-      contents: write
-
-    runs-on: ubuntu-latest
-
-    timeout-minutes: 10
-
-    steps:
-      - name: Generate github-contribution-grid-snake.svg
-        uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: HtLimite
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-
-      - name: Push github-contribution-grid-snake.svg to the output branch
-        uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
----
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:764ba2,100:667eea&height=120&section=footer" alt="footer" />
 </p>
-
-<p align="center">
-  <b>持续学习，持续交付，把复杂业务做成稳定、清晰、可维护的产品。</b>
-</p>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
-</p>
-
-### Engineering & Tools
-
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white" />
-  <img src="https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white" />
-  <img src="https://img.shields.io/badge/pnpm-F69220?style=flat-square&logo=pnpm&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/WebStorm-000000?style=flat-square&logo=webstorm&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" />
-</p>
-
----
-
-## 🎯 What I Build
-
-| Direction             | Practical Focus                                         |
-| --------------------- | ------------------------------------------------------- |
-| B-end Admin Systems   | 复杂列表、搜索筛选、批量操作、权限控制、导入导出、业务流程配置                         |
-| Mobile & Mini Program | Uni-app、微信小程序、移动端 H5、登录鉴权、接口封装、页面性能优化                   |
-| Frontend Engineering  | 组件抽象、状态管理、路由权限、构建优化、Monorepo、代码规范                       |
-| Full-stack Practice   | Spring Boot、Node.js、Laravel、MySQL、Redis、Docker、Nginx 部署 |
-| AI-assisted Workflow  | 使用 AI Agent / CLI 工具辅助编码、排错、文档生成、自动化提效                  |
-
----
-
-## 🚀 Featured Repositories
-
-| Repository                                                             | Description         | Keywords              |
-| ---------------------------------------------------------------------- | ------------------- | --------------------- |
-| [housekeep-admin-vue](https://github.com/HtLimite/housekeep-admin-vue) | 家政 / 业务管理后台前端项目入口   | Vue, Admin, B-end     |
-| [housekeep-api](https://github.com/HtLimite/housekeep-api)             | 家政 / 业务系统后端接口项目入口   | API, Backend, Service |
-| [credit](https://github.com/HtLimite/credit)                           | Node.js 全栈项目        | Node.js, Full-stack   |
-| [Vue](https://github.com/HtLimite/Vue)                                 | Vue 学习、实践与项目沉淀      | Vue, Frontend         |
-| [library](https://github.com/HtLimite/library)                         | 代码、工具或学习资料沉淀        | Notes, Tools          |
-| [ai-gemini-report](https://github.com/HtLimite/ai-gemini-report)       | AI / Gemini 相关实践与报告 | AI, Gemini            |
-| [HtLimite.github.io](https://github.com/HtLimite/HtLimite.github.io)   | 个人站点 / 博客项目         | Blog, GitHub Pages    |
-
----
-
-## 📌 Current Focus
-
-```txt
-Frontend  : React / Vue / TypeScript / Uni-app / Mini Program
-Business  : Admin systems / complex forms / permission / i18n / workflow
-Backend   : Spring Boot / Node.js / Laravel / MySQL / Redis
-DevOps    : Docker / Nginx / Jenkins / Linux / deployment automation
-AI Tools  : Coding Agent / CLI workflow / productivity automation
-```
-
----
-
-## 🧭 Repository Map
-
-```txt
-HtLimite
-├── housekeep-admin-vue     # B 端管理后台前端
-├── housekeep-api           # 后端 API 服务
-├── housekeep-foundations   # 基础能力 / 公共模块
-├── housekeep-customer      # 客户端 / 业务端项目
-├── credit                  # Node.js 全栈项目
-├── Vue                     # Vue 学习与实践
-├── library                 # 代码与资料沉淀
-├── ai-gemini-report        # AI / Gemini 相关实践
-└── HtLimite.github.io      # 个人站点 / 博客
-```
-
----
-
-## 🧠 Development Philosophy
-
-* **实用优先**：技术服务业务，优先解决真实问题。
-* **稳定交付**：关注可维护性、可读性、可扩展性。
-* **持续学习**：保持对新技术、新工具和 AI 工作流的探索。
-* **工程思维**：不仅写功能，也关注效率、规范、部署和协作。
-
----
-
-## 🤝 Connect With Me
-
-<p>
-  <a href="https://github.com/HtLimite">
-    <img src="https://img.shields.io/badge/GitHub-HtLimite-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://wyy.hair">
-    <img src="https://img.shields.io/badge/Blog-wyy.hair-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" />
-  </a>
-</p>
-
----
 
 <p align="center">
   <b>持续学习，持续交付，把复杂业务做成稳定、清晰、可维护的产品。</b>
